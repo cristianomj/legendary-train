@@ -1,2 +1,2 @@
 # legendary-train
-Project using 3D models made by students in ITS-102
+Unity3D project using 3D models made by Stony Brook students in ITS-102
